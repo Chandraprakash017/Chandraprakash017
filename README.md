@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:a78bfa&height=200&section=header&text=Chandra%20Prakash&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20MERN&descAlignY=55&descSize=18" alt="Chandra Prakash banner" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Chandraprakash017/Chandraprakash017@main/assets/banner.svg" alt="Chandra Prakash banner" width="100%" />
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/chandra017"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Chandraprakash017"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -117,6 +117,22 @@ exploring backend systems, cloud infrastructure, and open source contribution.
 </picture>
 
 **🕹️ Chomping commits, one day at a time!**
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandraprakash017/Chandraprakash017/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandraprakash017/Chandraprakash017/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Chandraprakash017/Chandraprakash017/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+**🐍 Eat commits, stay consistent!**
 
 </div>
 
